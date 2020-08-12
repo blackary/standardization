@@ -7,6 +7,7 @@ authors = ["Zachary Blackwood <zblackwo@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 flake8 = "^3.8.3"
+black = "^19.10b0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
